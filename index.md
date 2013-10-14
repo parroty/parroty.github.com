@@ -8,7 +8,6 @@ This page contains some notes for my projects.
 <p><a href="http://parroty00.wordpress.com" target="_blank">http://parroty00.wordpress.com</a></p>
 
 # Elixir
-
 List of my elixir (<a href="http://elixir-lang.org/" target="_blank">elixir-lang</a>) projects.
 
 ## <a href="https://github.com/parroty/excoveralls" target="_blank">excoveralls</a>
@@ -38,6 +37,7 @@ Sample dynamo project for implementing rails-like scaffold page with Firebase ba
 Sample dynamo project for implementing rails-like scaffold page with REST API backend.
 
 # Ruby
+List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang</a>) projects.
 
 ## <a href="https://github.com/parroty/kindle-your-highlights" target="_blank">kindle-your-highlights</a>
 Scrape highlights from kindle.amazon.com
