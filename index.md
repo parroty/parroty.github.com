@@ -22,6 +22,9 @@ A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
 ## <a href="https://github.com/parroty/exfirebase" target="_blank">exfirebase</a>
 An elixir library for accessing the Firebase REST API.
 
+## <a href="https://github.com/parroty/excheck" target="_blank">excheck</a>
+Property-based testing for Elixir (QuickCheck style).
+
 ## <a href="https://github.com/parroty/exprof" target="_blank">exprof</a>
 A simple code profiler for Elixir using eprof.
 
