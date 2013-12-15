@@ -34,13 +34,16 @@ An elixir library for remember the milk API.
 ## <a href="https://github.com/parroty/http_server" target="_blank">http_server</a>
 A simple and self-contained HTTP Server for elixir.
 
-## dynamo
+## Samples
 
 ### <a href="https://github.com/parroty/dynamo_firebase" target="_blank">dynamo_firebase</a>
 Sample dynamo project for implementing rails-like scaffold page with Firebase backend.
 
 ### <a href="https://github.com/parroty/dynamo_scaffold" target="_blank">dynamo_scaffold</a>
 Sample dynamo project for implementing rails-like scaffold page with REST API backend.
+
+### <a href="https://github.com/parroty/sample_future" target="_blank">sample_future</a>
+Sample parallel map program for Future on elixir
 
 # Ruby
 List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang</a>) projects.
