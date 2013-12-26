@@ -34,6 +34,9 @@ An elixir library for remember the milk API.
 ## <a href="https://github.com/parroty/http_server" target="_blank">http_server</a>
 A simple and self-contained HTTP Server for elixir.
 
+## <a href="https://github.com/parroty/exfuture" target="_blank">exfuture</a>
+A trial implementation of future.
+
 ## Samples
 
 ### <a href="https://github.com/parroty/dynamo_firebase" target="_blank">dynamo_firebase</a>
