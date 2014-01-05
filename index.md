@@ -48,6 +48,11 @@ Sample dynamo project for implementing rails-like scaffold page with REST API ba
 ### <a href="https://github.com/parroty/sample_future" target="_blank">sample_future</a>
 Sample parallel map program for Future on elixir
 
+## Chef Cookbook
+
+### <a href="https://github.com/parroty/chef-cookbook-elixir" target="_blank">chef-cookbook-elixir</a>
+Chef cookbook for installing elixir.
+
 # Ruby
 List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang</a>) projects.
 
