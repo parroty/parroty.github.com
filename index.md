@@ -53,6 +53,9 @@ Sample parallel map program for Future on elixir
 ### <a href="https://github.com/parroty/chef-cookbook-elixir" target="_blank">chef-cookbook-elixir</a>
 Chef cookbook for installing elixir.
 
+### <a href="https://github.com/parroty/chef-cookbook-dynamo" target="_blank">chef-cookbook-dynamo</a>
+Chef cookbook for deploying dynamo application.
+
 # Ruby
 List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang</a>) projects.
 
