@@ -45,6 +45,9 @@ Sample dynamo project for implementing rails-like scaffold page with Firebase ba
 ### <a href="https://github.com/parroty/dynamo_scaffold" target="_blank">dynamo_scaffold</a>
 Sample dynamo project for implementing rails-like scaffold page with REST API backend.
 
+### <a href="https://github.com/parroty/dynamo_angular" target="_blank">dynamo_angular</a>
+Sample AngularJS scaffolding with dynamo and angular-resource backend.
+
 ### <a href="https://github.com/parroty/sample_future" target="_blank">sample_future</a>
 Sample parallel map program for Future on elixir
 
