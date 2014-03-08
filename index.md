@@ -37,6 +37,9 @@ A simple and self-contained HTTP Server for elixir.
 ## <a href="https://github.com/parroty/exfuture" target="_blank">exfuture</a>
 A trial implementation of future.
 
+## <a href="https://github.com/parroty/extwitter" target="_blank">extwitter</a>
+A twitter client library for elixir.
+
 ## Samples
 
 ### <a href="https://github.com/parroty/dynamo_firebase" target="_blank">dynamo_firebase</a>
