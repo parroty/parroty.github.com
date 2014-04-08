@@ -40,6 +40,9 @@ A trial implementation of future.
 ## <a href="https://github.com/parroty/extwitter" target="_blank">extwitter</a>
 A twitter client library for elixir.
 
+## <a href="https://github.com/parroty/spawn_viewer" target="_blank">spawn_viewer</a>
+Trial implementation to visualize process spawning.
+
 ## Samples
 
 ### <a href="https://github.com/parroty/dynamo_firebase" target="_blank">dynamo_firebase</a>
