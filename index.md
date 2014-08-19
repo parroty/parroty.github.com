@@ -15,29 +15,29 @@ List of my repostories in DockerHub.<br/>
 List of my elixir (<a href="http://elixir-lang.org/" target="_blank">elixir-lang</a>) projects.
 
 ## <a href="https://github.com/parroty/excoveralls" target="_blank">excoveralls</a>
-coveralls.io for Elixir.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=excoveralls&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+coveralls.io for Elixir.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=excoveralls&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/excoveralls"><img src="https://img.shields.io/hexpm/v/excoveralls.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/excoveralls"><img src="https://img.shields.io/hexpm/dt/excoveralls.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/exvcr" target="_blank">exvcr</a>
 
-HTTP request/response recording library for elixir, inspired by VCR.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exvcr&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+HTTP request/response recording library for elixir, inspired by VCR.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exvcr&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/exvcr"><img src="https://img.shields.io/hexpm/v/exvcr.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/exvcr"><img src="https://img.shields.io/hexpm/dt/exvcr.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/exprintf" target="_blank">exprintf</a>
-A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exprintf&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+A printf / sprintf library for Elixir. It works as a wrapper for :io.format.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exprintf&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/exprintf"><img src="https://img.shields.io/hexpm/v/exprintf.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/exprintf"><img src="https://img.shields.io/hexpm/dt/exprintf.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/exfirebase" target="_blank">exfirebase</a>
-An elixir library for accessing the Firebase REST API.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exfirebase&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+An elixir library for accessing the Firebase REST API.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exfirebase&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/exfirebase"><img src="https://img.shields.io/hexpm/v/exfirebase.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/exfirebase"><img src="https://img.shields.io/hexpm/dt/exfirebase.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/excheck" target="_blank">excheck</a>
-Property-based testing for Elixir (QuickCheck style).
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=excheck&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+Property-based testing for Elixir (QuickCheck style).<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=excheck&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/excheck"><img src="https://img.shields.io/hexpm/v/excheck.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/excheck"><img src="https://img.shields.io/hexpm/dt/excheck.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/exprof" target="_blank">exprof</a>
-A simple code profiler for Elixir using eprof.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exprof&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+A simple code profiler for Elixir using eprof.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exprof&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/exprof"><img src="https://img.shields.io/hexpm/v/exprof.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/exprof"><img src="https://img.shields.io/hexpm/dt/exprof.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/exrtm" target="_blank">exrtm</a>
 An elixir library for remember the milk API.
@@ -53,7 +53,7 @@ A trial implementation of future.
 
 ## <a href="https://github.com/parroty/extwitter" target="_blank">extwitter</a>
 A twitter client library for elixir.
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=extwitter&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=extwitter&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/extwitter"><img src="https://img.shields.io/hexpm/v/extwitter.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/extwitter"><img src="https://img.shields.io/hexpm/dt/extwitter.svg" alt="hex.pm downloads"></a>
 
 ## <a href="https://github.com/parroty/spawn_viewer" target="_blank">spawn_viewer</a>
 Trial implementation to visualize process spawning.
