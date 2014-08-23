@@ -39,6 +39,18 @@ Property-based testing for Elixir (QuickCheck style).<br/>
 A simple code profiler for Elixir using eprof.<br/>
 <iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exprof&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/exprof"><img src="https://img.shields.io/hexpm/v/exprof.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/exprof"> <img src="https://img.shields.io/hexpm/dt/exprof.svg" alt="hex.pm downloads"></a>
 
+## <a href="https://github.com/parroty/extwitter" target="_blank">extwitter</a>
+A twitter client library for elixir.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=extwitter&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/extwitter"><img src="https://img.shields.io/hexpm/v/extwitter.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/extwitter"> <img src="https://img.shields.io/hexpm/dt/extwitter.svg" alt="hex.pm downloads"></a>
+
+## <a href="https://github.com/parroty/spawn_viewer" target="_blank">spawn_viewer</a>
+Trial implementation to visualize process spawning.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=spawn_viewer&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+
+## <a href="https://github.com/parroty/oauth2ex" target="_blank">oauth2ex</a>
+An OAuth 2.0 client library for elixir.<br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=oauth2ex&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/oauth2ex"><img src="https://img.shields.io/hexpm/v/oauth2ex.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/oauth2ex"> <img src="https://img.shields.io/hexpm/dt/oauth2ex.svg" alt="hex.pm downloads"></a>
+
 ## <a href="https://github.com/parroty/exrtm" target="_blank">exrtm</a>
 An elixir library for remember the milk API.<br/>
 <iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exrtm&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
@@ -50,14 +62,6 @@ A simple and self-contained HTTP Server for elixir.<br/>
 ## <a href="https://github.com/parroty/exfuture" target="_blank">exfuture</a>
 A trial implementation of future.<br/>
 <iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=exfuture&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
-
-## <a href="https://github.com/parroty/extwitter" target="_blank">extwitter</a>
-A twitter client library for elixir.<br/>
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=extwitter&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe><a href="https://hex.pm/packages/extwitter"><img src="https://img.shields.io/hexpm/v/extwitter.svg" alt="hex.pm version"></a><a href="https://hex.pm/packages/extwitter"> <img src="https://img.shields.io/hexpm/dt/extwitter.svg" alt="hex.pm downloads"></a>
-
-## <a href="https://github.com/parroty/spawn_viewer" target="_blank">spawn_viewer</a>
-Trial implementation to visualize process spawning.<br/>
-<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=spawn_viewer&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
 
 
 ## Samples
