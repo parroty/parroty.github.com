@@ -98,3 +98,7 @@ List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang<
 ## <a href="https://github.com/parroty/kindle-your-highlights" target="_blank">kindle-your-highlights</a>
 Scrape highlights from kindle.amazon.com. <br/>
 <iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=kindle-your-highlights&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+
+## <a href="https://github.com/parroty/mono_timer" target="_blank">Mono Timer</a>
+An Pomodoro-style 25:00 minutes timer rails-app with notification feature. <br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=mono_timer&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
