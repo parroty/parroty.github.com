@@ -102,3 +102,7 @@ Scrape highlights from kindle.amazon.com. <br/>
 ## <a href="https://github.com/parroty/mono_timer" target="_blank">Mono Timer</a>
 An Pomodoro-style 25:00 minutes timer rails-app with notification feature. <br/>
 <iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=mono_timer&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
+
+## <a href="https://github.com/parroty/thought_mapper" target="_blank">Thought Mapper</a>
+Thinking assistant tool on comparing options. <br/>
+<iframe src="http://ghbtns.com/github-btn.html?user=parroty&repo=thought_mapper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" class="github-info"></iframe>
