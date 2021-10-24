@@ -116,6 +116,14 @@ Chef cookbook for deploying dynamo application.<br/>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=parroty&repo=chef-cookbook-dynamo&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
+# Go
+List of my go (<a href="https://golang.org/" target="_blank">golang</a>) projects.
+
+## <a href="https://github.com/parroty/rtmgo" target="_blank">rtmgo</a>
+Remember the milk api for golang.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=parroty&repo=rtmgo&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
 # Ruby
 List of my ruby (<a href="https://www.ruby-lang.org/" target="_blank">ruby-lang</a>) projects.
 
