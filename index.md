@@ -3,10 +3,6 @@ layout: default
 ---
 This page contains some notes for my projects.
 
-# Blog
-
-<p><a href="http://parroty00.wordpress.com" target="_blank">http://parroty00.wordpress.com</a></p>
-
 # Docker
 List of my repostories in DockerHub.<br/>
 <a href="https://registry.hub.docker.com/repos/parroty/" target="_blank">https://registry.hub.docker.com/repos/parroty/</a>
