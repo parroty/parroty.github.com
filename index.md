@@ -3,10 +3,6 @@ layout: default
 ---
 This page contains some notes for my projects.
 
-# Docker
-List of my repostories in DockerHub.<br/>
-<a href="https://registry.hub.docker.com/repos/parroty/" target="_blank">https://registry.hub.docker.com/repos/parroty/</a>
-
 # Elixir
 List of my elixir (<a href="http://elixir-lang.org/" target="_blank">elixir-lang</a>) projects.
 
